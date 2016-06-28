@@ -1,3 +1,4 @@
 # hello-world
-My first repository in GitHub.
-Thank you for watching.
+Hi Humans!
+
+Derek here, i like Nodejs ande front end. Beans is my favorite.
